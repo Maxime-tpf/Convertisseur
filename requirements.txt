@@ -2,4 +2,3 @@ librosa
 matplotlib
 ffmpeg
 ffprobe
-AudioSegment
