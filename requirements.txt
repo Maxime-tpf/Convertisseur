@@ -1,4 +1,3 @@
 librosa
-matplotlib
 ffmpeg
 ffprobe
